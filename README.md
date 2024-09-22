@@ -1,10 +1,10 @@
 # Developing-auction-strategy-for-new-IPL-franchise
 
 
- #Motive
+ # Motive
  Developing auction strategy for new IPL franchise by analyzing past IPL data to create a strong
  and balanced squad
- #Background story
+ # Background story
  Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during
  March or April and May of every year by eight teams representing eight different cities or states in
  India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007.
@@ -65,7 +65,7 @@
  itself. This would involve deciding on the order in which we want to bid for players, setting limits on
  the amount we are willing to pay for each player, and making use of any player retention or right to
  match options we may have.
- #DATA
+ # DATA
  You are provided with the ipl data from the first season to the 13th season which was
  held in 2020. Read and analyze the data properly before loading it into your sql server.
  Bidding on batters
